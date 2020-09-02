@@ -61,3 +61,4 @@
 * [11-6 볼링공 고르기(2019 SW마에스트로 기출)](https://github.com/ChanhuiSeok/CodingTestBooks_sourcecode/blob/master/CH11~/CH11_5_%EB%B3%BC%EB%A7%81%EA%B3%B5%EA%B3%A0%EB%A5%B4%EA%B8%B0.cpp)
 * [11-7 무지의 먹방 라이브(2019 카카오 신입 공채 기출)](https://github.com/ChanhuiSeok/CodingTestBooks_sourcecode/blob/master/CH11~/CH11_6_%EB%AC%B4%EC%A7%80%EC%9D%98%EB%A8%B9%EB%B0%A9%EB%9D%BC%EC%9D%B4%EB%B8%8C(%ED%9A%A8%EC%9C%A8%EC%84%B1%EA%B9%8C%EC%A7%80).cpp)
 * [12-3 문자열 압축(2020 카카오 신입 공채 기출)](https://github.com/ChanhuiSeok/CodingTestBooks_sourcecode/blob/master/CH11~/CH12_3_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95.cpp)
+* [12-4 자물쇠와 열쇠(2020 카카오 신입 공채 기출)](https://github.com/ChanhuiSeok/CodingTestBooks_sourcecode/commit/3f9f411a3e21591ead96a6f5dda51570d75d72d7)
